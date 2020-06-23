@@ -1,0 +1,13 @@
+E:\Projekty\FikuMiku\FikuMiku\bin\Debug\netcoreapp3.1\FikuMiku.exe
+E:\Projekty\FikuMiku\FikuMiku\bin\Debug\netcoreapp3.1\FikuMiku.deps.json
+E:\Projekty\FikuMiku\FikuMiku\bin\Debug\netcoreapp3.1\FikuMiku.runtimeconfig.json
+E:\Projekty\FikuMiku\FikuMiku\bin\Debug\netcoreapp3.1\FikuMiku.runtimeconfig.dev.json
+E:\Projekty\FikuMiku\FikuMiku\bin\Debug\netcoreapp3.1\FikuMiku.dll
+E:\Projekty\FikuMiku\FikuMiku\bin\Debug\netcoreapp3.1\FikuMiku.pdb
+E:\Projekty\FikuMiku\FikuMiku\obj\Debug\netcoreapp3.1\FikuMiku.csprojAssemblyReference.cache
+E:\Projekty\FikuMiku\FikuMiku\obj\Debug\netcoreapp3.1\FikuMiku.AssemblyInfoInputs.cache
+E:\Projekty\FikuMiku\FikuMiku\obj\Debug\netcoreapp3.1\FikuMiku.AssemblyInfo.cs
+E:\Projekty\FikuMiku\FikuMiku\obj\Debug\netcoreapp3.1\FikuMiku.csproj.CoreCompileInputs.cache
+E:\Projekty\FikuMiku\FikuMiku\obj\Debug\netcoreapp3.1\FikuMiku.dll
+E:\Projekty\FikuMiku\FikuMiku\obj\Debug\netcoreapp3.1\FikuMiku.pdb
+E:\Projekty\FikuMiku\FikuMiku\obj\Debug\netcoreapp3.1\FikuMiku.genruntimeconfig.cache
